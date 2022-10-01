@@ -1,4 +1,4 @@
-# curve25519-java
+# Curve25519-java
 
 A Java Curve25519 implementation that is backed by native code when available, and
 pure Java when a native library is not available. There is also a J2ME build variant.
